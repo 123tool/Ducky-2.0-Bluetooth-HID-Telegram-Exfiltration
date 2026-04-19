@@ -1,4 +1,4 @@
-# 🐍 SPY-Ducky 2.0: Bluetooth HID & Telegram Exfiltration
+## 🐍 SPY-Ducky 2.0: Bluetooth HID & Telegram Exfiltration
 
 ![Payload](https://img.shields.io/badge/Payload-Telegram%20Integration-blue.svg)
 ![Hardware](https://img.shields.io/badge/Hardware-ESP32-red.svg)
